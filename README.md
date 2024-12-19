@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mary0015
-- 👀 I’m interested in playing games and creating a game
+- 👀 I’m interested in creating websites
 - 🌱 I’m currently learning C# language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
